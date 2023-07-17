@@ -1,4 +1,4 @@
 # gitopsrepo
 Testing gitops with Releases
 
-New Release V0.1.4
+New Release V0.1.5
